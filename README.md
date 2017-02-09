@@ -1,3 +1,5 @@
+# Decimal To Binary
+
 This Code takes inputs and converts them into binary numbers. 
 
 They are in 16 bit form.
